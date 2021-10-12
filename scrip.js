@@ -7,10 +7,8 @@
 // let userName = name;
 //  let age = prompt('How oll are you?', chouse);
 // alert('Тебе ${age} лет!`);
-
 // let isBoss = confirm("Who is Boss?");
 // alert(isBoss);
-
 // let userName = prompt('What is your name?', );
 // alert(userName);
 
@@ -36,4 +34,4 @@
 // let a = prompt("Первое число?", 1);
 // let b = prompt("Второе число?", 2);
 
-// alert(+a + +b); // 12
+// alert(+a + +b); // 12 
