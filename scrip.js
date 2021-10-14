@@ -88,7 +88,7 @@
 // let userName = prompt ('Who are you?', '');
 //  if (userName == 'Admin') {
 //     let pass = prompt('Pass?', '')
-//     if ( pass== 'I owner') {
+//     if ( pass === '12345') {
 //         alert('Hello');
 //     } else if( pass =='' || pass == null) {
 //         alert('cancellation');
