@@ -15,3 +15,9 @@
 // null + 1 // 1
 // undefined + 1 // NaN
 // " \t \n" - 2 // -2
+
+// Задача 
+let a = prompt("Первое число?", 1);
+let b = prompt("Второе число?", 2);
+
+alert(+a + +b); // 12 

@@ -1,13 +1,3 @@
-// Задача 
-// let a = prompt("Первое число?", 1);
-// let b = prompt("Второе число?", 2);
-
-// alert(+a + +b); // 12 
-
-// Ver1.2 
-// Task name JavaScript
-// let nameJavaScript = prompt ('Какое официально название JavaScript?', '');
-
 // if (nameJavaScript == "ECMAScript") {
 //     alert ('Правильно!');
 // } else {
