@@ -30,3 +30,4 @@
 // }
 
 // alert(random(1, 3));
+alert(1)
